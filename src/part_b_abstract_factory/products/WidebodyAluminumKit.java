@@ -1,4 +1,4 @@
-package abstract_factory.products;
+package part_b_abstract_factory.products;
 
 public class WidebodyAluminumKit implements BodyKit {
     private static final String MATERIAL = "Reinforced Aluminum-Matrix Alloy";

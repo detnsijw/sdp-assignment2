@@ -1,7 +1,7 @@
-package factory_method.factory;
+package part_a_factory_method.factory;
 
-import factory_method.product.ElectricSupercar;
-import factory_method.product.Supercar;
+import part_a_factory_method.product.ElectricSupercar;
+import part_a_factory_method.product.Supercar;
 
 public class ElectricFactory extends SupercarFactory {
     @Override

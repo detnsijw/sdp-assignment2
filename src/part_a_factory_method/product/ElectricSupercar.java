@@ -1,4 +1,4 @@
-package factory_method.product;
+package part_a_factory_method.product;
 
 public class ElectricSupercar implements Supercar {
     private boolean isAssembled = false;

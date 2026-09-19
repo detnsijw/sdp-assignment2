@@ -1,6 +1,6 @@
-package factory_method.factory;
+package part_a_factory_method.factory;
 
-import factory_method.product.Supercar;
+import part_a_factory_method.product.Supercar;
 
 public abstract class SupercarFactory {
     public abstract Supercar createSupercar();

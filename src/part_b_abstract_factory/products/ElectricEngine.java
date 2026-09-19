@@ -1,4 +1,4 @@
-package abstract_factory.products;
+package part_b_abstract_factory.products;
 
 public class ElectricEngine implements Engine {
     private static final String TECH = "High-Voltage Quad-Motor Electric";

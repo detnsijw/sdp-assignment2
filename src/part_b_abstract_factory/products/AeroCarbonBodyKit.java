@@ -1,4 +1,4 @@
-package abstract_factory.products;
+package part_b_abstract_factory.products;
 
 public class AeroCarbonBodyKit implements BodyKit {
     private static final String MATERIAL = "Ultra-Light Carbon Fiber";

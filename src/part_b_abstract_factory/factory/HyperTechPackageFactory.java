@@ -1,9 +1,9 @@
-package abstract_factory.factory;
+package part_b_abstract_factory.factory;
 
-import abstract_factory.products.AeroCarbonBodyKit;
-import abstract_factory.products.BodyKit;
-import abstract_factory.products.ElectricEngine;
-import abstract_factory.products.Engine;
+import part_b_abstract_factory.products.AeroCarbonBodyKit;
+import part_b_abstract_factory.products.BodyKit;
+import part_b_abstract_factory.products.ElectricEngine;
+import part_b_abstract_factory.products.Engine;
 
 public class HyperTechPackageFactory implements CarPackageFactory {
     @Override
